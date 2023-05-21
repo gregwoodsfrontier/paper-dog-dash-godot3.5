@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Dog_SFX_Step_1.wav-7735142b1d3abca11ad853914a1a1338.sample"
+
+[deps]
+
+source_file="res://assets/audio/gameplay/sfx_player_step/Dog_SFX_Step_1.wav"
+dest_files=[ "res://.import/Dog_SFX_Step_1.wav-7735142b1d3abca11ad853914a1a1338.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

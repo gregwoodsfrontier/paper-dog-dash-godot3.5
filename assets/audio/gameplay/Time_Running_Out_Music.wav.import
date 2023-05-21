@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Time_Running_Out_Music.wav-0a64595c34289d2e4da3c3ba203650c9.sample"
+
+[deps]
+
+source_file="res://assets/audio/gameplay/Time_Running_Out_Music.wav"
+dest_files=[ "res://.import/Time_Running_Out_Music.wav-0a64595c34289d2e4da3c3ba203650c9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
