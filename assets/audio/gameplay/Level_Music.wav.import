@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Level_Music.wav-f18634b837c1c83815558be31ecaecbd.sample"
+
+[deps]
+
+source_file="res://assets/audio/gameplay/Level_Music.wav"
+dest_files=[ "res://.import/Level_Music.wav-f18634b837c1c83815558be31ecaecbd.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
